@@ -2,6 +2,5 @@
   "buildCommand": "cd holistic-marathon-optimizer && npm run build",
   "outputDirectory": "holistic-marathon-optimizer/.next",
   "installCommand": "cd holistic-marathon-optimizer && npm install",
-  "framework": "nextjs",
-  "rootDirectory": "holistic-marathon-optimizer"
+  "framework": "nextjs"
 } 
